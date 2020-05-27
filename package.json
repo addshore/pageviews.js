@@ -32,7 +32,7 @@
     "jscs": "^3.0.7",
     "jshint": "^2.11.0",
     "mocha": "^7.0.1",
-    "uglify-js": "^3.7.6"
+    "uglify-js": "^3.9.4"
   },
   "engines": {
     "node": ">=4.8.x",
